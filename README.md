@@ -1,7 +1,5 @@
-# state-elimination-mt
+# State Elimination as Model Transformation Problem
 created for TCC 2017
-
-State Elimination as Model Transformation Problem
 
 Required resources are included in two separate projects.
 
