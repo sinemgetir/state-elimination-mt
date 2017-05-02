@@ -5,7 +5,7 @@ Implementation for the state elimination algorithm descriped in the paper can be
 http://www.jflap.org/
 
 the compact and simplified implementation can be found here:
-https://www.informatik.hu-berlin.de/de/Members/sinem-getir/tcc2017/view/SimplifiedJFLAP.zip
+https://www.informatik.hu-berlin.de/de/forschung/gebiete/se/research/ongoingprojects/ensure/ttc
 
 We extended the implementation for probabilistic version of state elimination in the folder 3) ProbJFLAP/
 
